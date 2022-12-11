@@ -1,4 +1,4 @@
-# Landix - Testes Automatizados
+# Testes Automatizados
 
 Essa é um atividade referente ao processo seletivo interno referente à vaga de Analista de Testes (Teste Automatizados) na Landix. Para realizar o exercício proposto foi utilizado Python e Selenium.
 
